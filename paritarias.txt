@@ -1,0 +1,21 @@
+# PARITARIAS 2026 - Aumento mensual aproximado por gremio
+Comercio;2.0
+Sanidad (FATSA);1.9
+Mineria Cal y Piedra (AOMA);3.5
+Rurales (UATRE);3.0
+Casas Particulares;1.5
+Deportivos (UTEDyC);3.5
+Metalurgicos (UOM);2.5
+Construccion (UOCRA);2.8
+Camioneros;3.0
+Bancarios (La Bancaria);3.2
+Docentes (CTERA);2.0
+Estatales (UPCN);2.0
+Gastronomicos (UTHGRA);2.5
+Textiles (AOT);2.2
+Alimentacion (FTIA);2.4
+Petroleros;3.5
+Seguridad Privada (FATRASEP);2.0
+Panaderos (FOEPA);2.5
+Recibidores de Granos (URGARA);3.0
+Graficos (FATIDA);2.3

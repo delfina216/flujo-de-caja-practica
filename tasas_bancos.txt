@@ -1,0 +1,16 @@
+# TASAS BANCARIAS 2026 - Prestamos personales (TNA = Tasa Nominal Anual, en %)
+Banco Santa Fe;69.5
+Banco Nacion;68.00
+Banco Provincia;85.0
+Banco Macro;88.0
+BBVA;132.0
+Banco Galicia;95.0
+Banco Santander;98.0
+Banco Ciudad;82.0
+Banco Credicoop;90.0
+ICBC;105.0
+Banco Patagonia;92.0
+Banco Supervielle;110.0
+Banco Comafi;108.0
+HSBC;100.0
+Banco Hipotecario;96.0
